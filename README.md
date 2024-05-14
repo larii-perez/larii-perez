@@ -4,7 +4,12 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Top_Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div>
+<a href="https://www.linkedin.com/in/larissa-perez-1b4724225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
 
 <!---
 larii-perez/larii-perez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
