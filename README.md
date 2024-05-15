@@ -4,7 +4,7 @@
   ### Estudando no momento:
  # ![Top Langs](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Top Langs](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larii-perez&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
  <a href="https://www.linkedin.com/in/larissa-perez-1b4724225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
